@@ -1,0 +1,9 @@
+Metric,Value
+Total Customers (Test Set),200
+Actual Churned,108
+Predicted Churned (RF),107
+High Risk Customers,21
+Churn Rate (%),54.0
+Best Model,Random Forest
+Best Model Accuracy,50.50%
+Best Model F1 Score,53.95%
